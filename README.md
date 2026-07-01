@@ -8,4 +8,11 @@ AI & Cloud Computing Enthusiast | Big Data Undergraduate | Exploring Applied Pro
 - 💻 I volunteer at the Drone Security Lab in the AI core at my uni.
 - 💼 You can visit my [LinkedIn](www.linkedin.com/in/lala-mammadova-947a9b25a) for more info about my career process
 - 📷 You can follow me on [Instagram](https://www.instagram.com/lalashii__?igsh=YmJuOTN3amc3eWZk&utm_source=qr)
-- 
+
+
+
+## What I'm Currently Working On
+AI Safety & Reliability
+| Project ⚙️ | Description 🔗 | View ⭐ |
+|------------|----------------|----------|
+| [Text to SQL Interface with Guardrails and Hallucination Detection](https://github.com/Lala-chann/text2sql-hallucination-detection.git) | NLP → SQL with security checks and hallucination detection | |
