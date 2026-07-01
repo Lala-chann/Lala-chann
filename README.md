@@ -13,7 +13,7 @@ AI & Cloud Computing Enthusiast | Big Data Undergraduate | Exploring Applied Pro
 
 ## What I'm Currently Working On
 AI Safety & Reliability
-| Project ⚙️ | Description 🔗 | Last Commit 📅 | Stars ⭐ |
+| Project ⚙️ | Description 🔗 | Last Commit 📅 | View 👀 |
 | --- | --- | --- | --- |
 | [SQL Hallucination Detection](https://github.com/Lala-chann/text2sql-hallucination-detection.git) 🛡️ | NLP → SQL with security checks and hallucination detection | ![GitHub last commit](https://img.shields.io/github/last-commit/Lala-chann/text2sql-hallucination-detection) | ![Hits](https://hits.sh/github.com/Lala-chann/text2sql-hallucination-detection.svg?style=flat-square)
 |
