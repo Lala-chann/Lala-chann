@@ -15,5 +15,7 @@ AI & Cloud Computing Enthusiast | Big Data Undergraduate | Exploring Applied Pro
 AI Safety & Reliability
 | Project ⚙️ | Description 🔗 | Last Commit 📅 | View 👀 |
 | --- | --- | --- | --- |
-| [SQL Hallucination Detection](https://github.com/Lala-chann/text2sql-hallucination-detection.git) 🛡️ | NLP → SQL with security checks and hallucination detection | ![GitHub last commit](https://img.shields.io/github/last-commit/Lala-chann/text2sql-hallucination-detection) | ![Hits](https://hits.sh/github.com/Lala-chann/text2sql-hallucination-detection.svg?style=flat-square)
+| [SQL Hallucination Detection](https://github.com/Lala-chann/text2sql-hallucination-detection.git) 🛡️ | NLP → SQL with security checks and hallucination detection | ![GitHub last commit](https://img.shields.io/github/last-commit/Lala-chann/text2sql-hallucination-detection) | ![Hits](https://hits.sh/github.com/Lala-chann/text2sql-hallucination-detection.svg?style=flat-square) |
+| [Linux-AI](https://github.com/Lala-chann/Linux-AI.git) 🤖 | AI CLI tools for Linux automation and experiments | ![GitHub last commit](https://img.shields.io/github/last-commit/Lala-chann/Linux-AI) | ![Hits](https://hits.sh/github.com/Lala-chann/Linux-AI.svg?style=flat-square) |
+
 
