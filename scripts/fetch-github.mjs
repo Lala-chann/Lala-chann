@@ -12,6 +12,7 @@ const query = `
             contributionDays {
               date
               contributionCount
+              contributionLevel
               weekday
             }
           }
@@ -52,8 +53,8 @@ async function main() {
     throw new Error(JSON.stringify(result.errors || result));
   }
 
-  const calendar = result.data.user.contributionsCollection
-    .contributionCalendar;
+  const calendar =
+    result.data.user.contributionsCollection.contributionCalendar;
 
   const fs = await import("node:fs/promises");
 
@@ -66,6 +67,7 @@ async function main() {
 
   console.log("Contribution data saved successfully!");
   console.log("Total contributions:", calendar.totalContributions);
+  console.log("Number of weeks:", calendar.weeks.length);
 }
 
 main().catch(error => {
