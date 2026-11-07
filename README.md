@@ -20,5 +20,11 @@ AI & Cloud Computing Enthusiast | Big Data Undergraduate | Exploring Applied Pro
 | [Linux-AI](https://github.com/Lala-chann/Linux-AI) 🤖 | AI CLI tools for Linux automation and experiments | ![GitHub last commit](https://img.shields.io/github/last-commit/Lala-chann/Linux-AI) | ![Hits](https://hits.sh/github.com/Lala-chann/Linux-AI.svg?style=flat-square) |
 | [Document-Intelligence-Pipeline](https://github.com/Lala-chann/Document-Intelligence-Pipeline) 📄 | Intelligent pipeline for document processing and analysis | ![GitHub last commit](https://img.shields.io/github/last-commit/Lala-chann/Document-Intelligence-Pipeline) | ![Hits](https://hits.sh/github.com/Lala-chann/Document-Intelligence-Pipeline.svg?style=flat-square) |
 
+## My GitHub Contributions
+
+![Contribution Grid](./images/contribution-grid.svg)
+
+[View Interactive Contribution Animation Lab](YOUR_GITHUB_PAGES_URL)
+
 
 
