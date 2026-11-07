@@ -1,7 +1,6 @@
-
+import { useState } from 'react'
 import githubData from '../../../data/github.json'
 import './GridAnimation.css'
-import { useState } from 'react'
 
 function GridAnimation() {
   const weeks = githubData.weeks
@@ -15,6 +14,13 @@ function GridAnimation() {
     if (count <= 6) return '#006d32'
     if (count <= 10) return '#26a641'
     return '#39d353'
+  }
+
+  function getContributionLevel(count) {
+    if (count === 0) return 'No contributions'
+    if (count <= 3) return 'Low'
+    if (count <= 6) return 'Medium'
+    return 'High'
   }
 
   function getMonthLabel(week, index) {
